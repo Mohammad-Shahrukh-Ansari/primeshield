@@ -1,2 +1,2 @@
 mountpoints:
-/ : https://drive.google.com/drive/folders/1aRnrVyeXClSlj2ZigYC-3lqA9ClAtvWy
+  /: gdrive:1aRnrVyeXClSlj2ZigYC-3lqA9ClAtvWy
