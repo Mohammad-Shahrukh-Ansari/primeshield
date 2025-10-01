@@ -1,5 +1,6 @@
 mountpoints:
 <<<<<<< HEAD
+<<<<<<< HEAD
   /:
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
@@ -7,3 +8,6 @@ mountpoints:
 =======
 / : https://adobe.drive.com/sites/mohammad-shahrukh-ansari/Shared%20Documents/primeshield
 >>>>>>> f56a444 (Create fstab.yaml)
+=======
+/ : https://drive.google.com/drive/folders/1aRnrVyeXClSlj2ZigYC-3lqA9ClAtvWy
+>>>>>>> cacb6ee (Update fstab.yaml)
